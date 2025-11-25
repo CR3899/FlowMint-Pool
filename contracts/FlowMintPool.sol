@@ -34,12 +34,8 @@ State variables
         return earned(user);
     }
     
-    // Fallback function to receive ETH
-    receive() external payable {
-        totalLiquidity += msg.value;
-        emit LiquidityAdded(msg.sender, msg.value);
-    }
-}
+    End
+// 
 // 
 End
 // 
