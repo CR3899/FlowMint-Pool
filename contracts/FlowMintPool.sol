@@ -45,5 +45,5 @@ user => collateralIndex => amount
     }
 }
 // 
-End
+Contract End
 // 
